@@ -1,0 +1,5 @@
+rootProject.name = 'analytics-dashboard'
+include 'common'
+include 'dashboard-api'
+include 'data-aggregator'
+include 'report-generator'
